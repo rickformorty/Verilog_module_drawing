@@ -12,10 +12,10 @@
 
 如图
 
-![image-20240331152608346](README.assets/image-20240331152608346.png)
+![image-20240331152608346](./image-20240331152608346.png)
 
 py生成的模块图如下所示
 
-![image-20240331152625025](README.assets/image-20240331152625025.png)
+![image-20240331152625025](./image-20240331152625025.png)
 
 需要matplotlib和numpy库
